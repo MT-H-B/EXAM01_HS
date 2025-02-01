@@ -5,7 +5,6 @@ public class Task_02 {
         int [] arr = new int[101];
         for(int i=1; i<=100; i++){
             arr[i] = i;
-            //System.out.print(arr[i]+" ");
         }
         for(int i=1; i<=100; i++){
             int num = arr[i];
